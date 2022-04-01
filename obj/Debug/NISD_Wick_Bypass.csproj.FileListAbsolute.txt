@@ -1,0 +1,30 @@
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\bin\Debug\NISD_Wick_Bypass.exe.config
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\bin\Debug\NISD_Wick_Bypass.exe
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\bin\Debug\NISD_Wick_Bypass.pdb
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\bin\Debug\2Captcha.dll
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\obj\Debug\NISD_Wick_Bypass.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\obj\Debug\NISD_Wick_Bypass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\obj\Debug\NISD_Wick_Bypass.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\obj\Debug\NISD_Wick_Bypass.csproj.CopyComplete
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\obj\Debug\NISD_Wick_Bypass.exe
+C:\Users\Utente\Desktop\ConsoleApp1 - Copia\ConsoleApp1\obj\Debug\NISD_Wick_Bypass.pdb
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\bin\Debug\NISD_Wick_Bypass.exe.config
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\bin\Debug\NISD_Wick_Bypass.exe
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\bin\Debug\NISD_Wick_Bypass.pdb
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\obj\Debug\NISD_Wick_Bypass.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\obj\Debug\NISD_Wick_Bypass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\obj\Debug\NISD_Wick_Bypass.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\obj\Debug\NISD_Wick_Bypass.csproj.CopyComplete
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\obj\Debug\NISD_Wick_Bypass.exe
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\obj\Debug\NISD_Wick_Bypass.pdb
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\bin\Debug\System.Buffers.xml
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\bin\Debug\System.Memory.xml
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Utente\Desktop\NISD_Wick_Bypass\obj\Debug\NISD_Wick_Bypass.csproj.Fody.CopyLocal.cache
